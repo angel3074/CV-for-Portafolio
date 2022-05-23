@@ -136,6 +136,12 @@ fieldset{
 #myBtn:hover {
   background-color: rgb(50, 149, 225); 
 }
+
+.picture{
+width: 200px;
+height: fit-content;
+margin-left: 300px;
+}
 /* 
 brackgound effects */
 /* @import url('https://fonts.googleapis.com/css?family=Exo:400,700');
